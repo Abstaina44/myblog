@@ -1,0 +1,50 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+    {{ postdetail.title }}
+{% endblock title %}
+
+
+{% block contents %}
+<div class="user-profile">
+    <div class="profile-image">
+        <a href="{{ url_for('posts.post_list', userid=postdetail.user_id) }}"><img class="rounded-image" src="{{ url_for('static', filename=user_.filepath) }}" alt="Rounded Image">
+            </a>
+    </div>
+    <div class="profile-details">
+        <h5> {{ user_.first_name }} {{ user_.last_name}}</h5>
+        <p>{{ user_.email }}<br>
+        {{ user_.instagram }}</p>
+        <a href="{{ url_for('posts.post_list', userid=postdetail.user_id) }}" class="btn btn-secondary btn-sm">Back to Home</a>
+    </div>
+  </div>
+  <br>
+<div style="text-align: center;">
+    <h4>{{ postdetail.title }}</h4>
+    {% if postdetail.created %} 
+ Created: {{  postdetail.created.strftime('%B %d, %Y') }}
+    {% endif %}  
+
+</div>
+<hr>
+<div  style="display: flex; justify-content: center; align-items: center;">
+<div class="col-sm-12">
+        <div class="card ">
+            {% if postdetail.filepath %}
+<img src="{{ url_for('static', filename=postdetail.filepath) }}" class="card-img-top" style="width: 850px; 
+height: 300px; object-fit: fill;" alt="...">
+{% else %}
+<img src="{{ url_for('static', filename='JPG-File.png') }}" class="card-img-top" style="width: 850px; 
+height: 300px; object-fit: fill;" alt="...">
+{% endif %}
+        </div>
+        </div>
+        </div>
+<br>
+
+<div class="">
+ <span style="font-size: 20px;">{{ postdetail.body | safe }}</span>
+</div>
+    
+{% endblock contents %}
+    
