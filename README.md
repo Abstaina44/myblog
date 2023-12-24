@@ -1,12 +1,20 @@
 # MY BLOG TEXT
 
+Welcome to MyBlogText - Your Ultimate Blogging Platform
+Elevate Your Writing Experience
+At MyBlogText, we believe that every voice deserves to be heard. Our platform is designed to empower everyone like you to express your thoughts, share your stories, and connect with a global audience. Whether you're a seasoned writer or just starting your writing journey, MyblogText provides the perfect space to showcase your creativity
+
+
 ##  Usage
 
 ##  Features
 
 ##  Contributions 
 
-##  License
+##  License 
+
+## Author 
+<h3>Ephraim Abstaina</h3>
 
 All contributions are welcome.
 
