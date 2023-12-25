@@ -14,7 +14,8 @@ At MyBlogText, we believe that every voice deserves to be heard. Our platform is
 ##  License 
 
 ## Author 
-<h3>Ephraim Abstaina</h3>
+
+You can take a look at our GitHub Repository, check out Pascal himself and view my LinkedIn profile to connect!  
 
 All contributions are welcome.
 
