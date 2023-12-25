@@ -15,7 +15,10 @@ At MyBlogText, we believe that every voice deserves to be heard. Our platform is
 
 ## Author 
 
-You can take a look at our GitHub Repository, check out Pascal himself and view my LinkedIn profile to connect!  
+Visit the [GitHub][github] page for more information.
+
+[Github]: https://github.com/Abstaina44
+
 
 All contributions are welcome.
 
