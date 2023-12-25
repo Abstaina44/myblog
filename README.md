@@ -11,7 +11,7 @@ At MyBlogText, we believe that every voice deserves to be heard. Our platform is
 
 ##  Contributions 
 
-##  License 
+##  License - MIT 
 
 ## Author 
 
