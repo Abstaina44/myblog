@@ -15,13 +15,18 @@ At MyBlogText, we believe that every voice deserves to be heard. Our platform is
 
 ## Author 
 
-Visit the [GitHub][github] page for more information.
+Visit the [GitHub][github] 
 
 [Github]: https://github.com/Abstaina44
 
+Visit my [LinkedIn][linkedin]  
+
+[LinkedIn]: https://www.linkedin.com/in/ephraim-a-1a8204a8/
 
 All contributions are welcome.
 
-This is an ALX-Project BlogText Landing Page.
+This is an ALX-Project 
+
+BlogText Landing Page.
 
 <img width="1271" alt="Screenshot 2023-12-07 at 05 53 10" src="https://github.com/Abstaina44/ALX-Portfolio-Project/assets/48015890/8b48afef-b4b6-4e69-a760-164874c46965">
