@@ -1,4 +1,4 @@
-# MY BLOG TEXT
+# My Blog Text
 
 Welcome to MyBlogText - Your Ultimate Blogging Platform
 Elevate Your Writing Experience
@@ -15,7 +15,7 @@ At MyBlogText, we believe that every voice deserves to be heard. Our platform is
 
 ## Author 
 
-Visit the [GitHub][github] 
+Visit my [GitHub][github] 
 
 [Github]: https://github.com/Abstaina44
 
