@@ -28,11 +28,11 @@ git clone https://github.com/your-username/your-blog.git
 
 2. Navigate to the Project Directory:
 
-<i> cd your-blog </i>
+ cd your-blog 
 
-4. Install Dependencies:
+3. Install Dependencies:
 
-<i> npm install </i>
+npm install
 
 <h3> USAGE </h3>
 
@@ -43,7 +43,7 @@ npm run start
 
 Visit http://localhost:3000 to view the blog locally.
 
-4. Start Writing:
+3. Start Writing:
 Add your blog posts to the posts directory. The blog supports markdown for easy content creation.
 
 <h3> CONTRIBUTION </h3>
@@ -54,21 +54,21 @@ Contributions may include bug fixes, new features, or improvements to the existi
 Fork the repository.
 
 Create a new branch: 
-<i> git checkout -b feature/your-feature.</i>
+git checkout -b feature/your-feature.
 
 Make your changes and commit them: 
 
-<i> git commit -m 'Add some feature <i/>
+git commit -m 'Add some feature
 
 Push to the branch: 
 
-<i> git push origin feature/your-feature.</i>
+git push origin feature/your-feature
 
 Submit a pull request.
 
 ##  License - MIT 
 
-## Author 
+##  Author 
 
 Visit my [GitHub][github] 
 
